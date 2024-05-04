@@ -1,0 +1,15 @@
+﻿  Console_Arkanoide.cpp
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(66,42): warning C4305: +=: усечение из "double" в "float"
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(67,45): warning C4305: -=: усечение из "double" в "float"
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(70,9): warning C4244: аргумент: преобразование "double" в "DWORD", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(74,57): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(74,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(81,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(85,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(88,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(94,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(97,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(181,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(181,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+K:\My_projects_on_C_C++\Console_Arkanoide\Console_Arkanoide.cpp(153,7): warning C4101: knopka: неиспользованная локальная переменная
+  Console_Arkanoide.vcxproj -> K:\My_projects_on_C_C++\Console_Arkanoide\x64\Debug\Console_Arkanoide.exe
