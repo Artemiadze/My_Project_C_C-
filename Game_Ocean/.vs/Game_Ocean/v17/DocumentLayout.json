@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\My_projects_on_C_C\u002B\u002B\\Game_Ocean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{276321B9-238B-47EF-839C-1FCABF628477}|Game_Ocean.vcxproj|K:\\My_projects_on_C_C\u002B\u002B\\Game_Ocean\\Game_Ocean.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{276321B9-238B-47EF-839C-1FCABF628477}|Game_Ocean.vcxproj|solutionrelative:Game_Ocean.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game_Ocean.cpp",
+              "DocumentMoniker": "K:\\My_projects_on_C_C\u002B\u002B\\Game_Ocean\\Game_Ocean.cpp",
+              "RelativeDocumentMoniker": "Game_Ocean.cpp",
+              "ToolTip": "K:\\My_projects_on_C_C\u002B\u002B\\Game_Ocean\\Game_Ocean.cpp",
+              "RelativeToolTip": "Game_Ocean.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-26T08:25:12.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿  Game_Ocean.cpp
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(181,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(181,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(268,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(269,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(274,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(275,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(453,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(454,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(459,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(460,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(568,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(569,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(574,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\My_projects_on_C_C++\Game_Ocean\Game_Ocean.cpp(575,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Game_Ocean.vcxproj -> K:\My_projects_on_C_C++\Game_Ocean\x64\Debug\Game_Ocean.exe
