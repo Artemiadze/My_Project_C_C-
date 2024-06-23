@@ -1,0 +1,6 @@
+﻿  Matrix_Vlasov_Artyom_23CST-4.cpp
+K:\Matrix_Vlasov_Artyom_23CST-4\Matrix_Vlasov_Artyom_23CST-4.cpp(51,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\Matrix_Vlasov_Artyom_23CST-4\Matrix_Vlasov_Artyom_23CST-4.cpp(52,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+K:\Matrix_Vlasov_Artyom_23CST-4\Matrix_Vlasov_Artyom_23CST-4.cpp(98,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+K:\Matrix_Vlasov_Artyom_23CST-4\Matrix_Vlasov_Artyom_23CST-4.cpp(99,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Matrix_Vlasov_Artyom_23CST-4.vcxproj -> K:\Matrix_Vlasov_Artyom_23CST-4\x64\Debug\Matrix_Vlasov_Artyom_23CST-4.exe
