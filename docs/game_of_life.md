@@ -1,0 +1,1 @@
+![Logotype](game_of_life.jpg)
