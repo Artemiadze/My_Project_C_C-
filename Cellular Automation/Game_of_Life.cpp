@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+﻿//(char)254 is the square that is displayed in the console
+//If you are interested in symbols then you can read about 'UNICODE symbol in console'
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <conio.h>
@@ -18,7 +20,7 @@ void generation() {
         for (int x0 = 1; x0 < x - 1; x0++)
         {
             int num = rand() % 5; // cell generation
-            if (num == 1) cell[y0][x0] = '*';
+            if (num == 1) cell[y0][x0] = (char)254;
         }
     }
 }
@@ -56,10 +58,10 @@ void life() {
     setcur(0, 0);
     for (int i = 1; i < y - 1; i++) {
         for (int j = 1; j < x - 1; j++) {
-            if (cell[i][j] == '*') {
+            if (cell[i][j] == (char)254) {
                 for (int i1 = i - 1; i1 < i + 2; i1++) {
                     for (int j1 = j - 1; j1 < j + 2; j1++) {
-                        if (cell[i1][j1] == '*')  number++;
+                        if (cell[i1][j1] == (char)254)  number++;
                     }
                 }
                 if ((number != 2) && (number != 3)) {
@@ -70,11 +72,11 @@ void life() {
             else {
                 for (int i1 = i - 1; i1 < i + 2; i1++) {
                     for (int j1 = j - 1; j1 < j + 2; j1++) {
-                        if (cell[i1][j1] == '*')  number++;
+                        if (cell[i1][j1] == (char)254)  number++;
                     }
                 }
                 if (number == 3) {
-                    cell[i][j] = '*';
+                    cell[i][j] = (char)254;
                 }
                 number = 0;
             }
