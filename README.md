@@ -1,11 +1,11 @@
-My code
+Information
 ========
 
-## Список проектов:
+## List of projects:
 
-* "Консольный арканоид"- классическая игра с отражением мяча от ракетки и стен.
-* ["Клеточные автоматы. Игра "Жизнь"](./docs/game_of_life.md) -  клеточный автомат, придуманный английским математиком Джоном Конвеем в 1970 году. Это игра без игроков, в которой человек создаёт начальное состояние, а потом лишь наблюдает за её развитием. В игре можно создать процессы с полнотой по Тьюрингу, что позволяет реализовать любую машину Тьюринга.
-* Игра "Океан" - игра по схожему принципу с клеточными автоматами. В игре присутсвуют полноценная морская экосистема, состоящая из рыбок, хищников, высших хищников, рифов и камней. Для рыбок, хищников и высших хищников главная задача - выжить и дать как можно больше потомства.
-* Программа для работы с матрицами. Создаёт матрицу по вашему запросу, создаёт  рандомную матрицу, может создать матрицу из нулей или единичную матрицу по вашей команде. Программа поддерживает операции сложения матрицы с числом, матрицы с матрицей, умножения матрицы с числом, матрицы с матрицей, вычитание из матрицы матрицу. Операция деления находится в стадии разработки.
+* "Console arkanoid"- a classic game with the reflection of the ball from the racket and the walls.
+* ["Cellular automata. The game of Life](./docs/game_of_life.md) -  a cellular automaton invented by the English mathematician John Conway in 1970. This is a game without players, in which a person creates an initial state, and then only watches its development. In the game, you can create processes with Turing completeness, which allows you to implement any Turing machine.
+* The Ocean Game - The game follows a similar principle to cellular automata. The game features a full-fledged marine ecosystem consisting of fish, predators, top predators, reefs and rocks. For fish, predators and top predators, the main task is to survive and give as many offspring as possible.
+* A program for working with matrices. Creates a matrix according to your request, creates a random matrix, can create a matrix of zeros or a single matrix on your command. The program supports the operations of adding a matrix with a number, a matrix with a matrix, multiplying a matrix with a number, a matrix with a matrix, subtracting a matrix from a matrix. The division operation is under development.
 
 Created by Artyom Vlasov
