@@ -3,7 +3,7 @@ A cellular automaton (pl. cellular automata, abbrev. CA) is a discrete model of 
 
 ![Logotype](game_of_life.jpg)
 
-##History and concept
+## History and concept
 In the 1970s a two-state, two-dimensional cellular automaton named Game of Life became widely known, particularly among the early computing community. Invented by John Conway and popularized by Martin Gardner in a Scientific American article, its rules are as follows:
 
     1. Any live cell with fewer than two live neighbours dies, as if caused by underpopulation.
