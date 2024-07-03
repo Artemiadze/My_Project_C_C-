@@ -1,14 +1,14 @@
 # The Ocean Game
 This is a game based on a similar principle to cellular automata, only implemented through an ecosystem of marine life. We have 5 types of marine life.
 
-## Title
-|The name of marine life                    |
-|------------------------|------------------|
-|~ - Small fish (prey)   | > - Fish (Prey)  |
-|? - Small predator      | @ - Predator     |
-|? - Small apex predator | $ - Apex predator|
-|* - Stone               | & - Marine reef  |
-    
+## The name of marine life  
+|        Good           |          Evil           |
+|-----------------------|-------------------------|
+| ~ - Small fish (prey) | ? - Small predator      |
+| > - Fish (Prey)       | @ - Predator            |
+| & - Marine reef       | ? - Small apex predator |
+| * - Stone             | $ - Apex predator       |
+
 
 ## Marine life
 1. Stone 
