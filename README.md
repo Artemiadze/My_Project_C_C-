@@ -9,7 +9,7 @@ Information
 * A program for working with matrices. Creates a matrix according to your request, creates a random matrix, can create a matrix of zeros or a single matrix on your command. The program supports the operations of adding a matrix with a number, a matrix with a matrix, multiplying a matrix with a number, a matrix with a matrix, subtracting a matrix from a matrix. The division operation is under development.
  
 ## Launching programs
-All programs should be run in the console so that you can see all the features of the programs.
+All programs should be run in the console or console project in Visual Studio 2022 so that you can see all the features of the programs.
 
 
 Created by Artyom Vlasov
