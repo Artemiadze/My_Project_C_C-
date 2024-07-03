@@ -1,7 +1,6 @@
 # The Ocean Game
-========
-
 This is a game based on a similar principle to cellular automata, only implemented through an ecosystem of marine life. We have 5 types of marine life.
+
 |                   Title                   |
 |------------------------|------------------|
 |~ - Small fish (prey)   | > - Fish (Prey)  |
@@ -23,7 +22,6 @@ A predator that lives for 25 iterations. After 12 iterations of life, it grows o
 A killing machine, the highest link in the food chain, living for 25 iterations. After 10 iterations, he matures and starts hunting for everything. If the top predator is full, it moves randomly by 1 cell in search of prey. If you are hungry (you have not eaten for 4 iterations), then 2 cells move and eat all the fish, even the predator. It is capable of procreating with another top predator.
 
 ## Example
-========
 
 ![Logotype](ocean_game.jpg)
 
